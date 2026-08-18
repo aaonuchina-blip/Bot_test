@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ab2a4f0-2d50-4c85-a956-423651293a2d" name="Changes" comment="comit 1">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Tele_bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/Документ_о_квалификации_39592_Селиверстова_Анастасия_Александровна.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/Резюме 2026.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/downloads/Резюме_Селиверстова_Анастасия_Junior_Python_Developer.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms/user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/Документ_о_квалификации_39592_Селиверстова_Анастасия_Александровна.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/downloads/Резюме 2026.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aaonuchina-blip"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aaonuchina-blip/Bot_test.git",
+    "accountId": "9eb1880d-ff2d-4df6-b852-bc393226b0aa"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -107,22 +108,19 @@
       <option name="project" value="LOCAL" />
       <updated>1787040260541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="comit 1">
+      <option name="closed" value="true" />
+      <created>1787040953094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787040953094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit 1" />
     <option name="LAST_COMMIT_MESSAGE" value="comit 1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/handlers/routes.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
